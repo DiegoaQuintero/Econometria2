@@ -219,7 +219,7 @@ $x_t = x_{t-1} + \varepsilon_t$
 Definimos el modelo AR(p) como
      
 \begin{equation}
-    x_t = \phi_1 x_{t-1} + \phi_2 x_{t-2} + \dots + \phi_p x_{t-p}  \varepsilon_t 
+    x_t = \phi_1 x_{t-1} + \phi_2 x_{t-2} + \dots + \phi_p x_{t-p} + \varepsilon_t 
 \end{equation}
     
 o usando el operador de rezagos
